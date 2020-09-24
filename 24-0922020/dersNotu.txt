@@ -1,0 +1,109 @@
+VS Code:
+IDE (Integrated Development Enviroment)
+Tümleşik geliştirme ortamı
+
+extensions
+flutter ve dart
+
+flutter
+cross platform
+tüm işletim sistemlerinde 
+dart dilinde 
+windows linux macos
+android, ios ve windows mobile, web
+
+Mobil İşletim Sistemleri
+android, ios ve windows mobile
+
+cross platform yokken
+kotlin yazıp google play store
+swift yazıp appstore
+
+cross platform
+tek kod sonsuz çıktı türü
+
+programlama dili cross
+programlama dilleri
+
+yorumlayıcı diller java .net tüm diller python dart vb
+cross platform
+compiler c, c++ delphi gibi diller
+
+flutter web alanında da gelişti
+
+facebook react cross platformu
+
+python ve flutter, asp.net  
+
+
+Windows 7 SP1 üstü
+eğer işletim sisteminiz windows 7 ise powershell
+
+https://github.com/
+
+.bat dosyası
+
+
+D:\WEB\FLUTTER\SRC\flutter\bin yolunda
+
+tanımlama
+
+bilgisayar sağ tuş tıkla
+özelliler
+gelişmiş sistem ayarları
+ortam değişkenleri
+
+Path değşikenine
+
+yolu tanıtıyorum
+
+
+flutter doctor
+
+• No issues found!
+
+android sdkları
+android studio
+
+ios sdkları
+Xcode
+
+
+macos
+
+vmware macos
+
+
+VSCode
+Android studio (sdk ve emülatör-sanal android telefon-tablet-TV)
+
+ANDROID_HOME değişkenine
+D:\WEB\FLUTTER\SDK yolunu ekliyoruz
+
+avd manager 
+
+emülatör ağır olabilir
+
+web kısmını aktive etmeliyiz
+görüntüleme google chrome
+
+flutter doctor
+
+flutter create projeAdi
+
+lib/main.dart
+
+flutter config --enable-web
+
+ilk çalıştırm uzun sürer
+
+
+
+
+
+
+
+
+
+
+
